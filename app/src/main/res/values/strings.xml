@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+    <string name="example_button_text">example button</string>
+</resources>
